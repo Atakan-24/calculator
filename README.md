@@ -72,14 +72,24 @@ Geben Sie die zweite Zahl ein: 0
 Fehler! Division durch Null ist nicht möglich.
 ```
 
-## Funktionen
+### Für Mitwirkende
 
-- `add(x, y)`: Führt eine Addition der beiden übergebenen Zahlen `x` und `y` durch und gibt das Ergebnis zurück.
-- `subtract(x, y)`: Führt eine Subtraktion der beiden übergebenen Zahlen `x` und `y` durch und gibt das Ergebnis zurück.
-- `multiply(x, y)`: Führt eine Multiplikation der beiden übergebenen Zahlen `x` und `y` durch und gibt das Ergebnis zurück.
-- `divide(x, y)`: Führt eine Division der beiden übergebenen Zahlen `x` und `y` durch und gibt das Ergebnis zurück. Wenn `y` gleich 0 ist, wird eine Fehlermeldung zurückgegeben.
+1. Fork dieses Repository.
+2. Klone deinen Fork lokal.
+3. Installiere die erforderlichen Python-Abhängigkeiten.
+4. Passe das Skript nach Bedarf an und teste deine Änderungen lokal.
+5. Reiche einen Pull-Request ein, wenn du Verbesserungen vorschlagen möchtest.
 
-## Lizenz
+## Erwartungen an Mitwirkende
 
-Dieses Projekt ist unter der [MIT-Lizenz](https://opensource.org/licenses/MIT) lizenziert. Siehe die Datei `LICENSE` für weitere Informationen.
+- Befolge den Coding-Stil und die Richtlinien des Projekts.
+- Reiche Pull-Requests mit klaren Beschreibungen und Verweisen auf relevante Probleme ein.
+- Teste Änderungen lokal, bevor du Pull-Requests einreichst.
 
+## Bekannte Probleme
+
+- [Liste hier bekannte Probleme oder Fehler auf]
+
+## Unterstützung
+
+Wenn du dieses Projekt hilfreich findest, erwäge, die Entwicklung durch  [donate](https://www.paypal.com/donate/?hosted_button_id=4S77QGBW6FT3W)  zu unterstützen.
